@@ -1,3 +1,3 @@
-add french section
-work on the css of the top nav
-make functional sidebar, collapsable?
+keep working on top accordion
+add side bar and side accordion
+add italian stuff
